@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*------------- estructura de datos -------------*/
+/*------------- estructura de datos --------------*/
 
 typedef struct nodoGenerico{
   char *rut;
